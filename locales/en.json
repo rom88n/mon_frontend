@@ -1,0 +1,11 @@
+{
+  "title": "Monitoring servers",
+  "gameTable": {
+    "name": "Name",
+    "address": "IP:PORT",
+    "map": "Map",
+    "players": "Players",
+    "rating": "Rating",
+    "allServers": "All servers"
+  }
+}

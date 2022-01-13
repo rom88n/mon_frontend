@@ -1,0 +1,11 @@
+{
+  "title": "Мониторинг серверов",
+  "gameTable": {
+    "name": "Название",
+    "address": "IP:PORT",
+    "map": "Карта",
+    "players": "Игроки",
+    "rating": "Рейтинг",
+    "allServers": "Все сервера"
+  }
+}
